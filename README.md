@@ -99,11 +99,7 @@ Understand collaborative filtering concepts and how similarity metrics drive rec
 
 ## 🚀 How to Use This Repository
 1. Clone the repository.  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-   *(or install packages manually: pandas, numpy, scikit-learn, matplotlib, seaborn, nltk)*  
+2. Install dependencies:  pandas, numpy, scikit-learn, matplotlib, seaborn, nltk
 3. Open the notebooks and run them step by step.  
 4. Modify parameters (e.g., number of clusters) to explore different results.  
 
@@ -112,7 +108,6 @@ Understand collaborative filtering concepts and how similarity metrics drive rec
 ## ℹ️ Notes
 - The repository is for learning and experimenting with unsupervised techniques.  
 - Each notebook contains explanations, visualizations, and step-by-step procedures.  
-- Adding a `requirements.txt` will help replicate the environment easily.
 
 ---
 
